@@ -1,0 +1,97 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-body-topmover {
+    height: 150px;
+    width: 150px;
+    margin: 2px;
+    padding: 2px;
+    border-radius: 5px;
+    background-color: rgba(219, 222, 200, 0.468);
+}
+
+.col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2px;
+}
+
+.playerDetails {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.name .n {
+    color: black;
+    margin: 2px;
+    padding: 2px;
+    text-align: center;
+    font-size: 15px;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 500;
+    font-family: serif;
+}
+
+
+.team {
+    font: 800;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 300;
+    font-family: serif;
+    text-align: center;
+    margin: 2px;
+    padding: 2px;
+
+}
+
+.growth {
+    font-size: medium;
+    margin-left: 5px;
+    color: rgb(0, 221, 255);
+    font-weight: 900;
+    font-size: 15px;
+    text-decoration: none;
+    font-size: larger;
+    font-family: serif;
+    text-align: center;
+    margin: 2px;
+    padding: 2px;
+
+
+}
+
+.avg {
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 500;
+    font-family: serif;
+    text-align: center;
+    margin: 2px;
+    padding: 2px;
+
+}

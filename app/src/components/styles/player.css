@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.row-trending {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.card-body-trending {
+    margin: 2px;
+    padding: 2px;
+    height: 150px;
+    width: 150px;
+    background-color: rgba(219, 222, 200, 0.468);
+    border-radius: 5px;
+}
+
+.growth-trending {
+   color: rgb(0, 221, 255);
+    font-size: 15px;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 900;
+    font-family: serif;
+    text-align: center;
+}
+
+
+.n-trending {
+    margin-right: 5px;
+    text-align: center;
+    font-size: 15px;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 500;
+    font-family: serif;
+}
